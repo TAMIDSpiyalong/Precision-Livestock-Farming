@@ -1,4 +1,3 @@
-# Precision_Livestock_Farming_tool
+# Precision_Livestock_Farming
 
-The detection .npy data can be found here: https://drive.google.com/drive/folders/0AB9Kca28DpZnUk9PVA 
-
+The TAMIDS data can be found here: https://drive.google.com/drive/folders/1hqfdjoewo3wrcqlWiUZLM8rNuNoGMyLQ. 
